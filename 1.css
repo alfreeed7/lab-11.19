@@ -1,0 +1,20 @@
+#line:hover
+{
+    stroke: red;
+    stroke-width:4;
+   
+}
+
+div
+{
+    position: absolute;
+    top:60%;
+}
+
+img
+{
+    height:60px;
+    padding-right: 10px;
+    
+}
+
